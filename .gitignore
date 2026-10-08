@@ -1,1 +1,26 @@
+# Sensitive
 Password.txt
+.env
+.env.local
+config/config.local.php
+
+# Dependencies
+vendor/
+
+# Logs & cache
+logs/
+*.log
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/*
+
+# Backup files
+*.bak
+*.tmp
+*~
+*.sql.zip
